@@ -1,0 +1,36 @@
+.TOP {
+background-color: aliceblue;
+;
+margin: 40px;
+padding: 30px;
+border: 2px solid darkblue;
+box-shadow: 4px 3px 5px grey;
+
+
+}
+.MID{
+    background-color: aqua;
+    margin: 40px;
+    padding: 10px;
+    border: 2px darkred;
+    box-shadow: darkblue;
+}
+.LAST{
+    background-color: aliceblue;
+    margin: 40px;
+    padding: 30px;
+    border: 2px darkgreen;
+}
+
+.to-the-right{
+
+    width:50%;
+    margin-left: auto; 
+}
+
+div img {
+
+border-radius: 50%;
+width: 100px; 
+
+}
